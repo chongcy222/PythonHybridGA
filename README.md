@@ -5,5 +5,5 @@ The traditional Genetic Algorithm does not often deliver the best result, as the
 
 For instance, a problem's final answer could be x coordinate at (0,0) as we are doing a minimization problem. However the Genetic Algorithm can only reach -1 instead of 0, which is very close. With hybrid, we aim to achieve 0. 
 
-The genetic algorithm is implemented using "PyGAD"
-While hybrid (local search algorithms) were implemented using "SciPy"
+The genetic algorithm is implemented using "PyGAD".
+While hybrid (local search algorithms) were implemented using "SciPy".
